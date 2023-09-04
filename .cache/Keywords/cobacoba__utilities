@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "D317485E3B3DC97B04CCA2C9F9698BAE",
+  "keywordClasses": [
+    {
+      "name": "cobacoba.utilities",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

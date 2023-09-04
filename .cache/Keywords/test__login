@@ -1,0 +1,42 @@
+{
+  "keywordFileContentHash": "8EF3A95BC1D6BCE4879CEDCD06C11859",
+  "keywordClasses": [
+    {
+      "name": "test.login",
+      "keywordMethods": [
+        {
+          "name": "formDate",
+          "parameters": [
+            {
+              "name": "tglAwal",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "tglAkhir",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
